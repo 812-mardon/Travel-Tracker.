@@ -1,0 +1,6 @@
+{
+  "name": "Travel Tracker",
+  "description": "Un'applicazione per gestire i viaggi, colorare le regioni visitate su mappe geografiche interattive, aggiungere note e foto, ed ottenere consigli di viaggio personalizzati tramite l'intelligenza artificiale di Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
